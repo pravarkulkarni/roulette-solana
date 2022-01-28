@@ -105,3 +105,4 @@ dist
 
 # Vscode settings file
 settings.json
+.vscode
